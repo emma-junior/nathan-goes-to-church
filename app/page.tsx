@@ -53,9 +53,9 @@ export default function Home() {
             <div className="bg-white shadow rounded-2xl p-4">
               📅 05 July 2026
             </div>
-            <div className="bg-white shadow rounded-2xl p-4">⏰ 10:00 AM</div>
+            <div className="bg-white shadow rounded-2xl p-4">⏰ 03:00 PM</div>
             <div className="bg-white shadow rounded-2xl p-4">
-              📍 North Church, 31 Burley Road, LS3 1JT
+              📍 10 Laycock Pl, Leeds LS7 3JA
             </div>
           </div>
         </div>
