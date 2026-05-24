@@ -55,7 +55,7 @@ export default function Home() {
             </div>
             <div className="bg-white shadow rounded-2xl p-4">⏰ 03:00 PM</div>
             <div className="bg-white shadow rounded-2xl p-4">
-              📍Leeds Caribbean & Alfrican Centre 10 Laycock Pl, Leeds LS7 3JA
+              📍Leeds City, England (Exact Venue to be communicated ASAP)
             </div>
           </div>
         </div>
